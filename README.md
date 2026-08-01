@@ -92,28 +92,6 @@ NotesManager/
 
 ---
 
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/AbdallahThyab1/notes-manager.git
-```
-
-Navigate into the project
-
-```bash
-cd notes-manager
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
----
-
 ## ▶️ Usage
 
 ### Add a Note
